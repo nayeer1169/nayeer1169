@@ -36,14 +36,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
 
-<!--
+
 ## GitHub Statistics :
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praneesh-Sharma&theme=tokyonight&hide_border=true&show_icons=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Praneesh-Sharma&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praneesh-Sharma&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://visitcount.itsvg.in/api?id=Praneesh-Shara&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayeer1169&theme=tokyonight&hide_border=true&show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nayeer1169&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayeer1169&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://visitcount.itsvg.in/api?id=nayeer1169&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 <!--## Badges :
 
 <div id="badges2" align="left">
