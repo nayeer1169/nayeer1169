@@ -44,10 +44,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayeer1169&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://visitcount.itsvg.in/api?id=nayeer11&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
-<!--## Badges :
+## Badges :
 
 <div id="badges2" align="left">
-  <a href="https://www.cloudskillsboost.google/public_profiles/aa6940ed-6878-4682-91f1-5a03f38fea25">
+<!--   <a href="https://www.cloudskillsboost.google/public_profiles/aa6940ed-6878-4682-91f1-5a03f38fea25">
     <img src="https://img.shields.io/badge/Cloud-white?style=for-the-badge&logo=google&logoColor=green" alt="Google Cloud Badges"/>
   </a>
   <a href="https://credly.com/users/praneesh-sharma">
@@ -55,11 +55,11 @@
   </a>
   <a href="https://holopin.io/@praneesh_sharma">
     <img src="https://img.shields.io/badge/Holopin-green?style=for-the-badge" alt="Holopin Badges"/>
-  </a>
-  <a href="https://g.dev/praneesh-sharma?utm_source=developers.google.com&utm_medium=referral">
+  </a> -->
+  <a href="https://developers.google.com/profile/u/106946444475088820455">
     <img src="https://img.shields.io/badge/Developers-lightgreen?style=for-the-badge&logo=google&logoColor=white" alt="Google Badges"/>
   </a>
-</div> -->
+</div>
 
 ## Competitive Programming :
 <div id="badges3" align="left">
