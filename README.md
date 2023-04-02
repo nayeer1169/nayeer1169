@@ -59,6 +59,9 @@
   <a href="https://developers.google.com/profile/u/106946444475088820455">
     <img src="https://img.shields.io/badge/Developers-lightgreen?style=for-the-badge&logo=google&logoColor=white" alt="Google Badges"/>
   </a>
+  <a href="https://learn.microsoft.com/en-us/users/nayeernaushad-3529/">
+    <img src="https://img.shields.io/badge/Learn-blue?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Badges"/>
+  </a>
 </div>
 
 ## Competitive Programming :
