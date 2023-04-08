@@ -72,7 +72,7 @@
   <a href="https://leetcode.com/nayeer786/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
   </a>
-<!--   <a href="https://www.codechef.com/users/praneeshsharma">
+  <a href="https://www.codechef.com/users/naiyerdx786">
     <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
-  </a> -->
+  </a>
 </div>
