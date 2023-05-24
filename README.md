@@ -50,9 +50,7 @@
 <!--   <a href="https://www.cloudskillsboost.google/public_profiles/aa6940ed-6878-4682-91f1-5a03f38fea25">
     <img src="https://img.shields.io/badge/Cloud-white?style=for-the-badge&logo=google&logoColor=green" alt="Google Cloud Badges"/>
   </a>
-  <a href="https://credly.com/users/praneesh-sharma">
-    <img src="https://img.shields.io/badge/Credly-red?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badges"/>
-  </a>
+  
   <a href="https://holopin.io/@praneesh_sharma">
     <img src="https://img.shields.io/badge/Holopin-green?style=for-the-badge" alt="Holopin Badges"/>
   </a> -->
@@ -61,6 +59,9 @@
   </a>
   <a href="https://learn.microsoft.com/en-us/users/nayeernaushad-3529/">
     <img src="https://img.shields.io/badge/Learn-blue?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Badges"/>
+  </a>
+  <a href="https://www.credly.com/users/nayeer-naushad.91bf759d/badges">
+    <img src="https://img.shields.io/badge/Credly-red?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badges"/>
   </a>
 </div>
 
