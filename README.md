@@ -17,9 +17,11 @@
 </div>
 
 ## About Me :
- - Studying at Kalinga Institute of Industrial Technology
- - Machine Learning Enthusiast
- - Currently working on my Web Developement Skills and Gaining more concept of Machine Learning
+	•	Computer Science graduate from Kalinga Institute of Industrial Technology (KIIT) with a strong interest in Machine Learning, Data Science, and Generative AI.
+	•	Experienced in building data-driven applications and AI solutions, including automated analytics dashboards and deep learning-based image classification systems.
+	•	Completed a GenAI Internship at Ravian AI, where I developed a Retrieval-Augmented Generation (RAG) system and an automated CSV-to-dashboard generator for real-time data insights.
+	•	Hands-on experience with Python, SQL, Pandas, NumPy, TensorFlow, PyTorch, and data visualization tools for solving real-world problems using data.
+	•	Continuously improving my skills in Data Analytics, Machine Learning, and Web Development while exploring advanced AI technologies.
 
 ## Languages and Tools :
 <div>
