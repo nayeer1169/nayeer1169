@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="250" height="250"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDV6MTV4bjBnaDJ5aHppOG02c25tY2ljbHhjbjVhaDl3NnVsMmQ5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="400"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nayeer-naushad-49ab83224/">
