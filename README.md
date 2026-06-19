@@ -17,12 +17,13 @@
 </div>
 
 ## About Me :
-	•	Computer Science graduate from Kalinga Institute of Industrial Technology (KIIT) with a strong interest in Machine Learning, Data Science, and Generative AI.
-	•	Experienced in building data-driven applications and AI solutions, including automated analytics dashboards and deep learning-based image classification systems.
-	•	Completed a GenAI Internship at Ravian AI, where I developed a Retrieval-Augmented Generation (RAG) system and an automated CSV-to-dashboard generator for real-time data insights.
-	•	Hands-on experience with Python, SQL, Pandas, NumPy, TensorFlow, PyTorch, and data visualization tools for solving real-world problems using data.
-	•	Continuously improving my skills in Data Analytics, Machine Learning, and Web Development while exploring advanced AI technologies.
+	## 👨‍💻 About Me
 
+	I am a Computer Science Engineering graduate from Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar. Currently, I am pursuing Java Full Stack Developer 	training at Tap Academy, where I am enhancing my skills in Java, Spring Boot, REST APIs, MySQL, Hibernate, HTML, CSS, JavaScript, React.js, Git, and GitHub.
+	
+	Previously, I worked as a GenAI Intern at Ravian AI, where I developed AI-powered solutions including a Retrieval-Augmented Generation (RAG) system for intelligent document search and a CSV-to-Dashboard Generator for automated analytics and visualization. My work involved vector embeddings, chunking strategies, LLM-based summarization, backend optimization, and automated insight generation.
+	
+	I have hands-on experience in Machine Learning, Data Science, Deep Learning, NLP, and Data Analytics using Python, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, and PyTorch. I enjoy solving real-world problems through data-driven applications and modern software development practices.
 ## 🛠️ Languages and Tools
 
 <div align="left">
